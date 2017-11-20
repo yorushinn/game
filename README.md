@@ -8,4 +8,4 @@
 * 楊韋襦
 * 黃嘉貞
 
-[id]: <http://www.nkfust.edu.tw/>  "第一科大"
+http://www.nkfust.edu.tw/  "第一科大"
